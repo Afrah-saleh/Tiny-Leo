@@ -1,4 +1,4 @@
-#Tiny Leo
+## Tiny Leo
 
 Welcome to the repository for my game Tiny Leo which has been developed as part of a 3-day game development bootcamp. In this action-packed game, you must navigate through a series of challenges, avoid enemies, collect coins, and reach the final, large coin to win.
 
