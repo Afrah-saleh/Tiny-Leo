@@ -1,4 +1,4 @@
-<img width="1507" alt="Screenshot 1445-08-23 at 5 00 32 PM" src="https://github.com/Afrah-saleh/Tiny-Leo/assets/62013951/d0616bff-859c-4429-9f77-dee8bd49b2d4"># Tiny Leo
+#Tiny Leo
 
 Welcome to the repository for my game Tiny Leo which has been developed as part of a 3-day game development bootcamp. In this action-packed game, you must navigate through a series of challenges, avoid enemies, collect coins, and reach the final, large coin to win.
 
