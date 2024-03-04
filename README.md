@@ -20,3 +20,7 @@ When the game is over or you win, you will be presented with two options:
 
 - **Arrow keys**: Move the character left/right .
 - **Spacebar**:  jump .
+
+## Screenshots 
+<img width="1511" alt="Screenshot 1445-08-23 at 4 59 23 PM" src="https://github.com/Afrah-saleh/Tiny-Leo/assets/62013951/42e32608-d553-43f8-a172-4cfb45f1523f">
+<img width="1512" alt="Screenshot 1445-08-23 at 5 00 32 PM" src="https://github.com/Afrah-saleh/Tiny-Leo/assets/62013951/c825dd77-101b-49bf-b352-f42c0fe3bfc0">
